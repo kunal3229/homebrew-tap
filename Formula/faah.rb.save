@@ -1,9 +1,9 @@
 class Faah < Formula
   desc "Terminal error scream CLI"
   homepage "https://github.com/kunal3229/faah"
-  url "https://github.com/kunal3229/faah/archive/refs/tags/v1.0.3.tar.gz" 
+  url "https://github.com/kunal3229/faah/archive/refs/tags/v1.0.3.tar.gz"
   version "1.0.3"
-  sha256 "71c6d9db0fc25f6b64bc469f8ac9db9b4d610fb139624e11fe4fc80ba90d9f9f"
+  sha256 "a59df74c57433252c474d6f08cf71c6d9db0fc25f6b64bc469f8ac9db9b4d610fb139624e11fe4fc80ba90d9f9f"
 
   def install
     bin.install "faah"
